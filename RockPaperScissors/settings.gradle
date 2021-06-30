@@ -1,0 +1,2 @@
+include ':app', ':javaTest'
+rootProject.name='RockPaperScissors'
